@@ -1,6 +1,6 @@
 ## Víctor Jean Pierre Mandujano Gutierrez
 
-Senior software engineer and tech lead, Lima, Peru. Ten years building and
+Senior software engineer and Tech Lead, Lima, Peru. Ten years building and
 leading production systems, now working agent first: I run the full development
 lifecycle with AI agents, and I help engineering teams adopt them under whatever
 policy their organization allows.
