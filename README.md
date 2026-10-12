@@ -7,7 +7,7 @@
   <a href="https://deepskill.space"><img alt="Deep Skill" src="https://img.shields.io/badge/Deep_Skill-founder-0f766e?style=flat-square"></a>
   <a href="https://www.linkedin.com/in/jean-pierre-mandujano/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-jean--pierre--mandujano-0a66c2?style=flat-square"></a>
   <a href="mailto:jeanpierre.mandujano@gmail.com"><img alt="Email" src="https://img.shields.io/badge/email-jeanpierre.mandujano%40gmail.com-475569?style=flat-square&logo=gmail&logoColor=white"></a>
-  <img alt="16 merged upstream" src="https://img.shields.io/badge/upstream-16_merged-2dd4bf?style=flat-square&logo=github&logoColor=white">
+  <img alt="17 merged upstream" src="https://img.shields.io/badge/upstream-17_merged-2dd4bf?style=flat-square&logo=github&logoColor=white">
 </p>
 
 Víctor Jean Pierre Mandujano Gutierrez. Senior software engineer and Tech Lead
@@ -98,6 +98,9 @@ went upstream. The agents write; I own the design and the verification.
 <img src="https://github.com/dapr.png?size=40" width="16"> [dapr/java-sdk](https://github.com/dapr/java-sdk) · [#1790](https://github.com/dapr/java-sdk/pull/1790) [#1796](https://github.com/dapr/java-sdk/pull/1796)<br>
 <sub>Dapr distributed runtime SDK for Java</sub>
 
+<img src="https://github.com/dapr.png?size=40" width="16"> [dapr/python-sdk](https://github.com/dapr/python-sdk) · [#1210](https://github.com/dapr/python-sdk/pull/1210)<br>
+<sub>Deduplicate unexpected workflow event warnings within each execution</sub>
+
 <img src="https://github.com/openrewrite.png?size=40" width="16"> [openrewrite/rewrite-testing-frameworks](https://github.com/openrewrite/rewrite-testing-frameworks) · [#1117](https://github.com/openrewrite/rewrite-testing-frameworks/pull/1117)<br>
 <sub>Automated refactoring recipes for Java test migrations</sub>
 
@@ -145,7 +148,6 @@ OpenAPITools/openapi-generator [#25073](https://github.com/OpenAPITools/openapi-
 wailsapp/wails [#6205](https://github.com/wailsapp/wails/pull/6205) [#6206](https://github.com/wailsapp/wails/pull/6206) ·
 moghtech/komodo [#1661](https://github.com/moghtech/komodo/pull/1661) [#1662](https://github.com/moghtech/komodo/pull/1662) ·
 Automattic/harper [#4425](https://github.com/Automattic/harper/pull/4425) ·
-dapr/python-sdk [#1210](https://github.com/dapr/python-sdk/pull/1210) ·
 testcontainers-java [#12072](https://github.com/testcontainers/testcontainers-java/pull/12072) ·
 torchgeo [#4111](https://github.com/microsoft/torchgeo/pull/4111) ·
 gempy [#1110](https://github.com/gempy-project/gempy/pull/1110) ·
