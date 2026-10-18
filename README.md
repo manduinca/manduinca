@@ -7,7 +7,7 @@
   <a href="https://deepskill.space"><img alt="Deep Skill" src="https://img.shields.io/badge/Deep_Skill-founder-0f766e?style=flat-square"></a>
   <a href="https://www.linkedin.com/in/jean-pierre-mandujano/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-jean--pierre--mandujano-0a66c2?style=flat-square"></a>
   <a href="mailto:jeanpierre.mandujano@gmail.com"><img alt="Email" src="https://img.shields.io/badge/email-jeanpierre.mandujano%40gmail.com-475569?style=flat-square&logo=gmail&logoColor=white"></a>
-  <img alt="18 merged upstream" src="https://img.shields.io/badge/upstream-18_merged-2dd4bf?style=flat-square&logo=github&logoColor=white">
+  <img alt="20 merged upstream" src="https://img.shields.io/badge/upstream-20_merged-2dd4bf?style=flat-square&logo=github&logoColor=white">
 </p>
 
 Víctor Jean Pierre Mandujano Gutierrez. Senior software engineer and Tech Lead
@@ -104,6 +104,9 @@ went upstream. The agents write; I own the design and the verification.
 <img src="https://github.com/OpenAPITools.png?size=40" width="16"> [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) · [#25254](https://github.com/OpenAPITools/openapi-generator/pull/25254)<br>
 <sub>Keep inline object examples intact instead of treating their keys as media types</sub>
 
+<img src="https://github.com/wailsapp.png?size=40" width="16"> [wailsapp/wails](https://github.com/wailsapp/wails) · [#6206](https://github.com/wailsapp/wails/pull/6206)<br>
+<sub>Stop the v3 updater's periodic check from re-downloading an update it already staged</sub>
+
 <img src="https://github.com/openrewrite.png?size=40" width="16"> [openrewrite/rewrite-testing-frameworks](https://github.com/openrewrite/rewrite-testing-frameworks) · [#1117](https://github.com/openrewrite/rewrite-testing-frameworks/pull/1117)<br>
 <sub>Automated refactoring recipes for Java test migrations</sub>
 
@@ -116,7 +119,7 @@ went upstream. The agents write; I own the design and the verification.
 <img src="https://github.com/simpeg.png?size=40" width="16"> [simpeg/simpeg](https://github.com/simpeg/simpeg) · [#1777](https://github.com/simpeg/simpeg/pull/1777)<br>
 <sub>Geophysical simulation and inversion</sub>
 
-<img src="https://github.com/fatiando.png?size=40" width="16"> [fatiando/harmonica](https://github.com/fatiando/harmonica) · [#695](https://github.com/fatiando/harmonica/pull/695)<br>
+<img src="https://github.com/fatiando.png?size=40" width="16"> [fatiando/harmonica](https://github.com/fatiando/harmonica) · [#695](https://github.com/fatiando/harmonica/pull/695) [#698](https://github.com/fatiando/harmonica/pull/698)<br>
 <sub>Gravity and magnetic data processing</sub>
 
 <img src="https://github.com/fatiando.png?size=40" width="16"> [fatiando/boule](https://github.com/fatiando/boule) · [#294](https://github.com/fatiando/boule/pull/294)<br>
@@ -148,13 +151,11 @@ went upstream. The agents write; I own the design and the verification.
 apache/lucene [#16643](https://github.com/apache/lucene/pull/16643) ·
 keycloak/keycloak [#52478](https://github.com/keycloak/keycloak/pull/52478) ·
 OpenAPITools/openapi-generator [#25073](https://github.com/OpenAPITools/openapi-generator/pull/25073) [#25074](https://github.com/OpenAPITools/openapi-generator/pull/25074) ·
-wailsapp/wails [#6205](https://github.com/wailsapp/wails/pull/6205) [#6206](https://github.com/wailsapp/wails/pull/6206) ·
 moghtech/komodo [#1661](https://github.com/moghtech/komodo/pull/1661) [#1662](https://github.com/moghtech/komodo/pull/1662) ·
 Automattic/harper [#4425](https://github.com/Automattic/harper/pull/4425) ·
 testcontainers-java [#12072](https://github.com/testcontainers/testcontainers-java/pull/12072) ·
 torchgeo [#4111](https://github.com/microsoft/torchgeo/pull/4111) ·
-gempy [#1110](https://github.com/gempy-project/gempy/pull/1110) ·
-fatiando/harmonica [#698](https://github.com/fatiando/harmonica/pull/698)
+gempy [#1110](https://github.com/gempy-project/gempy/pull/1110)
 
 I also review upstream, not just submit: testcontainers-go and dascore among
 others.
