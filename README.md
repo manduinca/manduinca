@@ -7,7 +7,7 @@
   <a href="https://deepskill.space"><img alt="Deep Skill" src="https://img.shields.io/badge/Deep_Skill-founder-0f766e?style=flat-square"></a>
   <a href="https://www.linkedin.com/in/jean-pierre-mandujano/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-jean--pierre--mandujano-0a66c2?style=flat-square"></a>
   <a href="mailto:jeanpierre.mandujano@gmail.com"><img alt="Email" src="https://img.shields.io/badge/email-jeanpierre.mandujano%40gmail.com-475569?style=flat-square&logo=gmail&logoColor=white"></a>
-  <img alt="20 merged upstream" src="https://img.shields.io/badge/upstream-20_merged-2dd4bf?style=flat-square&logo=github&logoColor=white">
+  <img alt="22 merged upstream" src="https://img.shields.io/badge/upstream-22_merged-2dd4bf?style=flat-square&logo=github&logoColor=white">
 </p>
 
 Víctor Jean Pierre Mandujano Gutierrez. Senior software engineer and Tech Lead
@@ -101,11 +101,14 @@ went upstream. The agents write; I own the design and the verification.
 <img src="https://github.com/dapr.png?size=40" width="16"> [dapr/python-sdk](https://github.com/dapr/python-sdk) · [#1210](https://github.com/dapr/python-sdk/pull/1210)<br>
 <sub>Deduplicate unexpected workflow event warnings within each execution</sub>
 
-<img src="https://github.com/OpenAPITools.png?size=40" width="16"> [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) · [#25254](https://github.com/OpenAPITools/openapi-generator/pull/25254)<br>
-<sub>Keep inline object examples intact instead of treating their keys as media types</sub>
+<img src="https://github.com/OpenAPITools.png?size=40" width="16"> [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) · [#25254](https://github.com/OpenAPITools/openapi-generator/pull/25254) [#25253](https://github.com/OpenAPITools/openapi-generator/pull/25253)<br>
+<sub>Correct example generation for inline maps and empty objects</sub>
 
 <img src="https://github.com/wailsapp.png?size=40" width="16"> [wailsapp/wails](https://github.com/wailsapp/wails) · [#6206](https://github.com/wailsapp/wails/pull/6206)<br>
 <sub>Stop the v3 updater's periodic check from re-downloading an update it already staged</sub>
+
+<img src="https://github.com/tesseract-ocr.png?size=40" width="16"> [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract) · [#4650](https://github.com/tesseract-ocr/tesseract/pull/4650)<br>
+<sub>Build the unit tests against an installed GoogleTest instead of the vendored copy</sub>
 
 <img src="https://github.com/openrewrite.png?size=40" width="16"> [openrewrite/rewrite-testing-frameworks](https://github.com/openrewrite/rewrite-testing-frameworks) · [#1117](https://github.com/openrewrite/rewrite-testing-frameworks/pull/1117)<br>
 <sub>Automated refactoring recipes for Java test migrations</sub>
