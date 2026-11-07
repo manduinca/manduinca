@@ -1,186 +1,186 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
-  <img alt="Jean Pierre Mandujano. Tech Lead and founder of Deep Skill. Lima, Peru." src="assets/header-light.svg" width="100%">
+  <img alt="Jean Pierre Mandujano. I build production software and contribute upstream. Software engineer, Tech Lead, Lima, Peru." src="assets/header-light.svg" width="100%">
 </picture>
 
-<p>
-  <a href="https://deepskill.space"><img alt="Deep Skill" src="https://img.shields.io/badge/Deep_Skill-founder-0f766e?style=flat-square"></a>
-  <a href="https://www.linkedin.com/in/jean-pierre-mandujano/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-jean--pierre--mandujano-0a66c2?style=flat-square"></a>
-  <a href="mailto:jeanpierre.mandujano@gmail.com"><img alt="Email" src="https://img.shields.io/badge/email-jeanpierre.mandujano%40gmail.com-475569?style=flat-square&logo=gmail&logoColor=white"></a>
-  <img alt="22 merged upstream" src="https://img.shields.io/badge/upstream-22_merged-2dd4bf?style=flat-square&logo=github&logoColor=white">
-</p>
+## Where I contribute
 
-Víctor Jean Pierre Mandujano Gutierrez. Senior software engineer and Tech Lead
-with ten years building and leading production systems, now working agent
-first: I run the whole development lifecycle (specification, implementation,
-review, verification) with orchestrated AI agents, and I help engineering
-teams adopt them within whatever policy their organization allows.
+<sub>Selected open-source work · ordered by repository stars ↓</sub>
 
-Geological engineer from UNI, which is why half my work sits in computational
-geoscience and mining.
+<!-- START:featured -->
+<table>
+<tr>
+<td width="50%" valign="top">
+<p><img src="https://github.com/spring-projects.png?size=40" width="18" height="18" alt=""> <strong>Spring</strong> &nbsp; <a href="https://github.com/spring-projects/spring-boot"><sub>☆ 81,787</sub></a></p>
+<a href="https://github.com/spring-projects/spring-boot/pull/18489">Spring Boot</a> · <sub>Integrated manually</sub><br>
+<sub>Tomcat configuration · upstream since 2019</sub>
+</td>
+<td width="50%" valign="top">
+<p><img src="https://github.com/testcontainers.png?size=40" width="18" height="18" alt=""> <strong>Testcontainers</strong> &nbsp; <a href="https://github.com/testcontainers/testcontainers-java"><sub>☆ 8,760</sub></a></p>
+<a href="https://github.com/testcontainers/testcontainers-go/pull/3881">Go</a> · <sub>Merged</sub><br>
+<a href="https://github.com/testcontainers/testcontainers-java/pull/12072">Java</a> · <sub>Open PR</sub><br>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<p><img src="https://github.com/apache.png?size=40" width="18" height="18" alt=""> <strong>Apache</strong> &nbsp; <a href="https://github.com/apache/lucene"><sub>☆ 3,608</sub></a></p>
+<a href="https://github.com/apache/camel-k/pull/6902">Camel K</a> · <sub>Open PR</sub><br>
+<a href="https://github.com/apache/lucene/pull/16643">Lucene</a> · <sub>Open PR</sub><br>
+</td>
+<td width="50%" valign="top">
+<p><img src="https://github.com/OSGeo.png?size=40" width="18" height="18" alt=""> <strong>OSGeo</strong> &nbsp; <a href="https://github.com/OSGeo/PROJ"><sub>☆ 2,034</sub></a></p>
+<a href="https://github.com/OSGeo/PROJ/pull/4930">PROJ</a> · <sub>Open PR</sub><br>
+<sub>Coordinate systems &amp; geodesy</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<p><img src="https://github.com/open-telemetry.png?size=40" width="18" height="18" alt=""> <strong>OpenTelemetry</strong> &nbsp; <a href="https://github.com/open-telemetry/opentelemetry-python-contrib"><sub>☆ 1,124</sub></a></p>
+<a href="https://github.com/open-telemetry/opentelemetry.io/pull/11344">Documentation · ES</a> · <sub>Merged</sub><br>
+<a href="https://github.com/open-telemetry/opentelemetry-python-contrib/pull/4840">Python instrumentation</a> · <sub>Open PR</sub><br>
+</td>
+<td width="50%" valign="top">
+<p><img src="https://github.com/fatiando.png?size=40" width="18" height="18" alt=""> <strong>Fatiando a Terra</strong> &nbsp; <a href="https://github.com/fatiando/harmonica"><sub>☆ 313</sub></a></p>
+<a href="https://github.com/fatiando/harmonica/pull/698">Harmonica</a> · <sub>Merged</sub><br>
+<a href="https://github.com/fatiando/boule/pull/294">Boule</a> · <sub>Merged</sub><br>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<p><img src="https://github.com/dapr.png?size=40" width="18" height="18" alt=""> <strong>Dapr</strong> &nbsp; <a href="https://github.com/dapr/java-sdk"><sub>☆ 301</sub></a></p>
+<a href="https://github.com/dapr/java-sdk/pull/1796">Java SDK</a> · <sub>Merged</sub><br>
+<a href="https://github.com/dapr/python-sdk/pull/1210">Python SDK</a> · <sub>Merged</sub><br>
+</td>
+<td width="50%" valign="top">
+<p><img src="https://github.com/equinor.png?size=40" width="18" height="18" alt=""> <strong>Equinor</strong> &nbsp; <a href="https://github.com/equinor/ert"><sub>☆ 166</sub></a></p>
+<a href="https://github.com/equinor/ert/pull/14798">ERT</a> · <sub>Open PR</sub><br>
+<a href="https://github.com/equinor/resdata/pull/1305">resdata</a> · <sub>Open PR</sub><br>
+<a href="https://github.com/equinor/pyscal/pull/524">pyscal</a> · <sub>Open PR</sub><br>
+<sub>Reservoir simulation &amp; scientific data</sub>
+</td>
+</tr>
+</table>
+<!-- END:featured -->
 
-## Deep Skill
+<!-- START:star-date -->
+<sub>Stars of the most-starred repository shown in each group · Updated Nov 7, 2026</sub>
+<!-- END:star-date -->
 
-[**Deep Skill**](https://deepskill.space) is the company I founded and run as
-an AI-native organization: a small senior team plus agents doing the work of a
-much larger one. It has two lines of business.
+<details>
+<summary>More contributions</summary>
+
+**Other projects**
+
+- [Kubernetes · documentation in Spanish](https://github.com/kubernetes/website/pull/57031)
+- [SimPEG](https://github.com/simpeg/simpeg/pull/1777)
+- [xDEM](https://github.com/GlacioHack/xdem/pull/993)
+- [Harper](https://github.com/Automattic/harper/pull/4425)
+- [Falcosidekick](https://github.com/falcosecurity/falcosidekick/pull/1415)
+- [OpenAPI Generator](https://github.com/OpenAPITools/openapi-generator/pull/25254) · [#25253](https://github.com/OpenAPITools/openapi-generator/pull/25253)
+- [Cryostat](https://github.com/cryostatio/cryostat/pull/1876)
+- [Wails](https://github.com/wailsapp/wails/pull/6206)
+- [Tesseract](https://github.com/tesseract-ocr/tesseract/pull/4650)
+- [OpenRewrite](https://github.com/openrewrite/rewrite-testing-frameworks/pull/1117)
+- [ping_exporter](https://github.com/czerwonk/ping_exporter/pull/166)
+- [SeisBench](https://github.com/seisbench/seisbench/pull/435)
+- [LoopStructural](https://github.com/Loop3D/LoopStructural/pull/293)
+- [Keycloak](https://github.com/keycloak/keycloak/pull/52478)
+- [Komodo #1661](https://github.com/moghtech/komodo/pull/1661) · [#1662](https://github.com/moghtech/komodo/pull/1662)
+- [TorchGeo](https://github.com/torchgeo/torchgeo/pull/4111)
+- [GemPy](https://github.com/gempy-project/gempy/pull/1110)
+
+**Additional PRs**
+
+[OpenTelemetry #10897](https://github.com/open-telemetry/opentelemetry.io/pull/10897) ·
+[Dapr #1790](https://github.com/dapr/java-sdk/pull/1790) ·
+[Harmonica #695](https://github.com/fatiando/harmonica/pull/695) ·
+[OpenAPI Generator #25073](https://github.com/OpenAPITools/openapi-generator/pull/25073) ·
+[#25074](https://github.com/OpenAPITools/openapi-generator/pull/25074)
+
+**Beyond a merged PR**
+
+[Prometheus client_java #2316](https://github.com/prometheus/client_java/pull/2316) → [#2396](https://github.com/prometheus/client_java/pull/2396)<br>
+<sub>The merged fix shares my two-part diagnosis: the merge bound in <code>compress()</code> and the early-stopping scan in <code>get()</code>. My PR was not merged.</sub>
+
+[DAScore #927](https://github.com/DASDAE/dascore/pull/927) → [#1290](https://github.com/DASDAE/dascore/pull/1290)<br>
+<sub>The maintainer’s smaller fix reuses my test cases and credits the PR. My PR was not merged.</sub>
+
+[All public PRs ↗](https://github.com/search?q=is%3Apr+author%3Amanduinca+is%3Apublic+-user%3Amanduinca+-user%3Adeep-skill&type=pullrequests)
+
+</details>
+
+## Contributions
+
+<a href="https://github.com/manduinca?tab=overview">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/contributions-dark.svg">
+    <img alt="My GitHub activity over the last year: daily contributions, including commits, pull requests, reviews and issues." src="assets/contributions-light.svg" width="100%">
+  </picture>
+</a>
+
+## How I work
+
+I orchestrate AI agents across software delivery, from personal projects to enterprise systems.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/delivery-dark.svg">
+  <img alt="Define → Build → Review → Verify → Ship" src="assets/delivery-light.svg" width="100%">
+</picture>
+
+I own the architecture, review and verification. [open-source-builder ↗](https://github.com/manduinca/open-source-builder)
+
+## What I’m building
+
+I founded [**Deep Skill**](https://deepskill.space) to teach engineers and build software with AI.
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🎓 Training
-
-**A learning platform for science and engineering, with an AI coach.**
-
-Structured paths in algorithms and data structures, mathematics, data science
-(Python, SQL, data engineering, machine learning), AI-assisted software
-development and system design. The AI coach follows each learner through
-practice, feedback and progress, on top of instructors who are ICPC world
-finalists and Google engineers.
-
-For companies: **Corporate AI Programs**, intensive tracks that turn
-developers, engineers and analysts into people who build with AI.
+**🎓 Training**<br>
+Science, engineering &amp; AI development
 
 </td>
 <td width="50%" valign="top">
 
-### ⚙️ AI operations
-
-**Automation and AI-supported operations for companies.**
-
-**Turbo**, our AI software factory: agents orchestrated by senior engineers,
-shipping in continuous increments instead of one-off projects.
-
-Typical work: workflow and back-office automation, data pipelines and system
-integrations, legacy modernization and migrations, and LLM features in
-production with the evaluation, observability and guardrails they need to
-stay there.
+**⚙️ AI operations**<br>
+Software delivery, automation &amp; integrations
 
 </td>
 </tr>
 </table>
 
-Also Fractional Tech Lead at Rumbo. Before that: API Tech Lead and Engineering
-Manager at Scotiabank's Digital Factory, and founder and CTO of Deep Pit
-Technology, acquired by Stracon Tech.
+## Experience
 
-## Open source, agent assisted
-
-Every contribution below was specified, generated and reviewed by me before it
-went upstream. The agents write; I own the design and the verification.
-
-**Merged upstream**
+<sub>10+ years · Enterprise &amp; startups</sub>
 
 <table>
 <tr>
-<th align="left" width="50%">Infrastructure and developer tooling</th>
-<th align="left" width="50%">Computational geoscience</th>
-</tr>
-<tr>
-<td valign="top">
+<td width="50%" valign="top">
 
-<img src="https://github.com/spring-projects.png?size=40" width="16"> [spring-projects/spring-boot](https://github.com/spring-projects/spring-boot) · [#18489](https://github.com/spring-projects/spring-boot/pull/18489)<br>
-<sub>Dedicated namespace for Tomcat's RemoteIpValve properties, shipped in 2.3 (my first upstream contribution, 2019)</sub>
+<sub>Enterprise</sub><br>
+**Scotiabank · BCP**
 
-<img src="https://github.com/kubernetes.png?size=40" width="16"> [kubernetes/website](https://github.com/kubernetes/website) · [#57031](https://github.com/kubernetes/website/pull/57031)<br>
-<sub>Kubernetes documentation, Spanish localization</sub>
-
-<img src="https://github.com/open-telemetry.png?size=40" width="16"> [open-telemetry/opentelemetry.io](https://github.com/open-telemetry/opentelemetry.io) · [#10897](https://github.com/open-telemetry/opentelemetry.io/pull/10897) [#11344](https://github.com/open-telemetry/opentelemetry.io/pull/11344)<br>
-<sub>OpenTelemetry documentation, Spanish localization</sub>
-
-<img src="https://github.com/testcontainers.png?size=40" width="16"> [testcontainers/testcontainers-go](https://github.com/testcontainers/testcontainers-go) · [#3881](https://github.com/testcontainers/testcontainers-go/pull/3881)<br>
-<sub>Integration testing with real dependencies in Go</sub>
-
-<img src="https://github.com/falcosecurity.png?size=40" width="16"> [falcosecurity/falcosidekick](https://github.com/falcosecurity/falcosidekick) · [#1415](https://github.com/falcosecurity/falcosidekick/pull/1415)<br>
-<sub>Runtime security event routing, CNCF</sub>
-
-<img src="https://github.com/dapr.png?size=40" width="16"> [dapr/java-sdk](https://github.com/dapr/java-sdk) · [#1790](https://github.com/dapr/java-sdk/pull/1790) [#1796](https://github.com/dapr/java-sdk/pull/1796)<br>
-<sub>Dapr distributed runtime SDK for Java</sub>
-
-<img src="https://github.com/dapr.png?size=40" width="16"> [dapr/python-sdk](https://github.com/dapr/python-sdk) · [#1210](https://github.com/dapr/python-sdk/pull/1210)<br>
-<sub>Deduplicate unexpected workflow event warnings within each execution</sub>
-
-<img src="https://github.com/OpenAPITools.png?size=40" width="16"> [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) · [#25254](https://github.com/OpenAPITools/openapi-generator/pull/25254) [#25253](https://github.com/OpenAPITools/openapi-generator/pull/25253)<br>
-<sub>Correct example generation for inline maps and empty objects</sub>
-
-<img src="https://github.com/wailsapp.png?size=40" width="16"> [wailsapp/wails](https://github.com/wailsapp/wails) · [#6206](https://github.com/wailsapp/wails/pull/6206)<br>
-<sub>Stop the v3 updater's periodic check from re-downloading an update it already staged</sub>
-
-<img src="https://github.com/tesseract-ocr.png?size=40" width="16"> [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract) · [#4650](https://github.com/tesseract-ocr/tesseract/pull/4650)<br>
-<sub>Build the unit tests against an installed GoogleTest instead of the vendored copy</sub>
-
-<img src="https://github.com/openrewrite.png?size=40" width="16"> [openrewrite/rewrite-testing-frameworks](https://github.com/openrewrite/rewrite-testing-frameworks) · [#1117](https://github.com/openrewrite/rewrite-testing-frameworks/pull/1117)<br>
-<sub>Automated refactoring recipes for Java test migrations</sub>
-
-<img src="https://github.com/czerwonk.png?size=40" width="16"> [czerwonk/ping_exporter](https://github.com/czerwonk/ping_exporter) · [#166](https://github.com/czerwonk/ping_exporter/pull/166)<br>
-<sub>Prometheus ICMP exporter</sub>
+I worked as API Tech Lead and Engineering Manager at Scotiabank’s Digital Factory, and as Tech Lead at BCP.
 
 </td>
-<td valign="top">
+<td width="50%" valign="top">
 
-<img src="https://github.com/simpeg.png?size=40" width="16"> [simpeg/simpeg](https://github.com/simpeg/simpeg) · [#1777](https://github.com/simpeg/simpeg/pull/1777)<br>
-<sub>Geophysical simulation and inversion</sub>
+<sub>Product &amp; startups</sub><br>
+**Deep Pit Technology**
 
-<img src="https://github.com/fatiando.png?size=40" width="16"> [fatiando/harmonica](https://github.com/fatiando/harmonica) · [#695](https://github.com/fatiando/harmonica/pull/695) [#698](https://github.com/fatiando/harmonica/pull/698)<br>
-<sub>Gravity and magnetic data processing</sub>
+I co-founded Deep Pit and served as CTO. The company was acquired by STRACON in 2022.
 
-<img src="https://github.com/fatiando.png?size=40" width="16"> [fatiando/boule](https://github.com/fatiando/boule) · [#294](https://github.com/fatiando/boule/pull/294)<br>
-<sub>Reference ellipsoids for geodesy and geophysics</sub>
-
-<img src="https://github.com/seisbench.png?size=40" width="16"> [seisbench/seisbench](https://github.com/seisbench/seisbench) · [#435](https://github.com/seisbench/seisbench/pull/435)<br>
-<sub>Machine learning for seismology</sub>
-
-<img src="https://github.com/GlacioHack.png?size=40" width="16"> [GlacioHack/xdem](https://github.com/GlacioHack/xdem) · [#993](https://github.com/GlacioHack/xdem/pull/993)<br>
-<sub>Digital elevation model analysis</sub>
-
-<img src="https://github.com/Loop3D.png?size=40" width="16"> [Loop3D/LoopStructural](https://github.com/Loop3D/LoopStructural) · [#293](https://github.com/Loop3D/LoopStructural/pull/293)<br>
-<sub>3D structural geological modelling</sub>
+I’ve also worked at Crehana and Fandango.
 
 </td>
 </tr>
 </table>
 
-**Not merged, but the fix that landed builds on them**
+Today, I’m also Fractional Tech Lead at Rumbo. [Speaker bio ↗](https://talks.devopsdays.org/devopsdays-lima-2026/speaker/ZMLZVR/)
 
-<img src="https://github.com/prometheus.png?size=40" width="16"> [prometheus/client_java](https://github.com/prometheus/client_java) · [#2316](https://github.com/prometheus/client_java/pull/2316) → [#2396](https://github.com/prometheus/client_java/pull/2396)<br>
-<sub>Summary quantiles collapsing to the minimum: the merged fix shares this PR's two-part diagnosis, the <code>compress()</code> merge bound and the early-stopping scan in <code>get()</code></sub>
+<sub>Geological engineer · Universidad Nacional de Ingeniería</sub>
 
-<img src="https://github.com/DASDAE.png?size=40" width="16"> [DASDAE/dascore](https://github.com/DASDAE/dascore) · [#927](https://github.com/DASDAE/dascore/pull/927) → [#1290](https://github.com/DASDAE/dascore/pull/1290)<br>
-<sub>Times outside the nanosecond range: the maintainer's smaller fix reuses this PR's test cases and credits it</sub>
+---
 
-**In review**
-
-apache/lucene [#16643](https://github.com/apache/lucene/pull/16643) ·
-keycloak/keycloak [#52478](https://github.com/keycloak/keycloak/pull/52478) ·
-OpenAPITools/openapi-generator [#25073](https://github.com/OpenAPITools/openapi-generator/pull/25073) [#25074](https://github.com/OpenAPITools/openapi-generator/pull/25074) ·
-moghtech/komodo [#1661](https://github.com/moghtech/komodo/pull/1661) [#1662](https://github.com/moghtech/komodo/pull/1662) ·
-Automattic/harper [#4425](https://github.com/Automattic/harper/pull/4425) ·
-testcontainers-java [#12072](https://github.com/testcontainers/testcontainers-java/pull/12072) ·
-torchgeo [#4111](https://github.com/microsoft/torchgeo/pull/4111) ·
-gempy [#1110](https://github.com/gempy-project/gempy/pull/1110)
-
-I also review upstream, not just submit: testcontainers-go and dascore among
-others.
-
-## How the work gets found
-
-[**open-source-builder**](https://github.com/manduinca/open-source-builder) is
-the agentic system behind the list above. Claude Code agents scan GitHub for
-active projects in my domains, filter issues by maintainer responsiveness, AI
-policy and real reproducibility, and hand me a curated report. The
-contributions are the output; this is the method.
-
-## Stack
-
-<p>
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
-  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white">
-  <img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white">
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
-  <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white">
-  <img alt="Rust" src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white">
-  <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white">
-  <img alt="Azure" src="https://img.shields.io/badge/Azure-0078D4?style=flat-square">
-  <img alt="Claude Code" src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=claude&logoColor=white">
-</p>
+<sub>Python · Java · Go · Rust · TypeScript · C++</sub> · [LinkedIn ↗](https://www.linkedin.com/in/jean-pierre-mandujano/)
