@@ -168,10 +168,6 @@ I’ve also worked at Crehana and Fandango.
 </tr>
 </table>
 
-Today, I’m also Fractional Tech Lead at Rumbo. [Speaker bio ↗](https://talks.devopsdays.org/devopsdays-lima-2026/speaker/ZMLZVR/)
+Today, I’m also Fractional Tech Lead at Rumbo. [LinkedIn ↗](https://www.linkedin.com/in/jean-pierre-mandujano/)
 
 <sub>Geological engineer · Universidad Nacional de Ingeniería</sub>
-
----
-
-<sub>Python · Java · Go · Rust · TypeScript · C++</sub> · [LinkedIn ↗](https://www.linkedin.com/in/jean-pierre-mandujano/)
