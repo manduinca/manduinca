@@ -109,25 +109,16 @@
 
 </details>
 
-## Contributions
-
-<a href="https://github.com/manduinca?tab=overview">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/contributions-dark.svg">
-    <img alt="My GitHub activity over the last year: daily contributions, including commits, pull requests, reviews and issues." src="assets/contributions-light.svg" width="100%">
-  </picture>
-</a>
-
 ## How I work
 
-I orchestrate AI agents across software delivery, from personal projects to enterprise systems.
+**AI-driven SDLC**
+
+I orchestrate AI agents across the software development life cycle: requirements, architecture, implementation, review, testing and delivery. I own the technical decisions and validation.
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/delivery-dark.svg">
-  <img alt="Define → Build → Review → Verify → Ship" src="assets/delivery-light.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/ai-sdlc-dark.svg">
+  <img alt="AI-driven SDLC: Specify → Design → Implement → Review → Validate → Deliver" src="assets/ai-sdlc-light.svg" width="100%">
 </picture>
-
-I own the architecture, review and verification. [open-source-builder ↗](https://github.com/manduinca/open-source-builder)
 
 ## What I’m building
 
