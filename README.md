@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
-  <img alt="Jean Pierre Mandujano. I build production software and contribute upstream. Software engineer, Tech Lead, Lima, Peru." src="assets/header-light.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/profile-header-dark.svg">
+  <img alt="Jean Pierre Mandujano. I build production software and contribute upstream. Software engineer, Tech Lead, Lima, Peru." src="assets/profile-header-light.svg" width="100%">
 </picture>
 
 ## Where I contribute
