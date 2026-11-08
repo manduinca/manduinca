@@ -7,66 +7,66 @@
 
 <table>
 <tr>
-<td width="33%" valign="top">
-<a href="https://github.com/spring-projects"><img src="https://github.com/spring-projects.png?size=40" width="18" height="18" alt=""> <strong>Spring</strong></a> &nbsp; <a href="https://github.com/spring-projects/spring-boot"><sub>☆ 81,787</sub></a>
+<td width="270" valign="top">
+<a href="https://github.com/spring-projects"><img src="https://github.com/spring-projects.png?size=40" width="18" height="18" alt=""> <strong>Spring</strong></a> &nbsp; <a href="https://github.com/spring-projects/spring-boot"><sub>☆&nbsp;81,787</sub></a>
 </td>
-<td width="33%" valign="top">
-<a href="https://github.com/tesseract-ocr"><img src="https://github.com/tesseract-ocr.png?size=40" width="18" height="18" alt=""> <strong>Tesseract</strong></a> &nbsp; <a href="https://github.com/tesseract-ocr/tesseract"><sub>☆ 77,406</sub></a>
+<td width="270" valign="top">
+<a href="https://github.com/tesseract-ocr"><img src="https://github.com/tesseract-ocr.png?size=40" width="18" height="18" alt=""> <strong>Tesseract</strong></a> &nbsp; <a href="https://github.com/tesseract-ocr/tesseract"><sub>☆&nbsp;77,406</sub></a>
 </td>
-<td width="33%" valign="top">
-<a href="https://github.com/wailsapp"><img src="https://github.com/wailsapp.png?size=40" width="18" height="18" alt=""> <strong>Wails</strong></a> &nbsp; <a href="https://github.com/wailsapp/wails"><sub>☆ 36,990</sub></a>
-</td>
-</tr>
-<tr>
-<td width="33%" valign="top">
-<a href="https://github.com/OpenAPITools"><img src="https://github.com/OpenAPITools.png?size=40" width="18" height="18" alt=""> <strong>OpenAPI Tools</strong></a> &nbsp; <a href="https://github.com/OpenAPITools/openapi-generator"><sub>☆ 26,850</sub></a>
-</td>
-<td width="33%" valign="top">
-<a href="https://github.com/Automattic"><img src="https://github.com/Automattic.png?size=40" width="18" height="18" alt=""> <strong>Automattic</strong></a> &nbsp; <a href="https://github.com/Automattic/harper"><sub>☆ 17,468</sub></a>
-</td>
-<td width="33%" valign="top">
-<a href="https://github.com/kubernetes"><img src="https://github.com/kubernetes.png?size=40" width="18" height="18" alt=""> <strong>Kubernetes</strong></a> &nbsp; <a href="https://github.com/kubernetes/website"><sub>☆ 5,423</sub></a>
+<td width="270" valign="top">
+<a href="https://github.com/wailsapp"><img src="https://github.com/wailsapp.png?size=40" width="18" height="18" alt=""> <strong>Wails</strong></a> &nbsp; <a href="https://github.com/wailsapp/wails"><sub>☆&nbsp;36,990</sub></a>
 </td>
 </tr>
 <tr>
-<td width="33%" valign="top">
-<a href="https://github.com/testcontainers"><img src="https://github.com/testcontainers.png?size=40" width="18" height="18" alt=""> <strong>Testcontainers</strong></a> &nbsp; <a href="https://github.com/testcontainers/testcontainers-go"><sub>☆ 5,022</sub></a>
+<td width="270" valign="top">
+<a href="https://github.com/OpenAPITools"><img src="https://github.com/OpenAPITools.png?size=40" width="18" height="18" alt=""> <strong>OpenAPI Tools</strong></a> &nbsp; <a href="https://github.com/OpenAPITools/openapi-generator"><sub>☆&nbsp;26,850</sub></a>
 </td>
-<td width="33%" valign="top">
-<a href="https://github.com/open-telemetry"><img src="https://github.com/open-telemetry.png?size=40" width="18" height="18" alt=""> <strong>OpenTelemetry</strong></a> &nbsp; <a href="https://github.com/open-telemetry/opentelemetry.io"><sub>☆ 994</sub></a>
+<td width="270" valign="top">
+<a href="https://github.com/Automattic"><img src="https://github.com/Automattic.png?size=40" width="18" height="18" alt=""> <strong>Automattic</strong></a> &nbsp; <a href="https://github.com/Automattic/harper"><sub>☆&nbsp;17,468</sub></a>
 </td>
-<td width="33%" valign="top">
-<a href="https://github.com/falcosecurity"><img src="https://github.com/falcosecurity.png?size=40" width="18" height="18" alt=""> <strong>Falco</strong></a> &nbsp; <a href="https://github.com/falcosecurity/falcosidekick"><sub>☆ 699</sub></a>
-</td>
-</tr>
-<tr>
-<td width="33%" valign="top">
-<a href="https://github.com/simpeg"><img src="https://github.com/simpeg.png?size=40" width="18" height="18" alt=""> <strong>SimPEG</strong></a> &nbsp; <a href="https://github.com/simpeg/simpeg"><sub>☆ 694</sub></a>
-</td>
-<td width="33%" valign="top">
-<a href="https://github.com/seisbench"><img src="https://github.com/seisbench.png?size=40" width="18" height="18" alt=""> <strong>SeisBench</strong></a> &nbsp; <a href="https://github.com/seisbench/seisbench"><sub>☆ 429</sub></a>
-</td>
-<td width="33%" valign="top">
-<a href="https://github.com/fatiando"><img src="https://github.com/fatiando.png?size=40" width="18" height="18" alt=""> <strong>Fatiando a Terra</strong></a> &nbsp; <a href="https://github.com/fatiando/harmonica"><sub>☆ 313</sub></a>
+<td width="270" valign="top">
+<a href="https://github.com/kubernetes"><img src="https://github.com/kubernetes.png?size=40" width="18" height="18" alt=""> <strong>Kubernetes</strong></a> &nbsp; <a href="https://github.com/kubernetes/website"><sub>☆&nbsp;5,423</sub></a>
 </td>
 </tr>
 <tr>
-<td width="33%" valign="top">
-<a href="https://github.com/Loop3D"><img src="https://github.com/Loop3D.png?size=40" width="18" height="18" alt=""> <strong>Loop3D</strong></a> &nbsp; <a href="https://github.com/Loop3D/LoopStructural"><sub>☆ 302</sub></a>
+<td width="270" valign="top">
+<a href="https://github.com/testcontainers"><img src="https://github.com/testcontainers.png?size=40" width="18" height="18" alt=""> <strong>Testcontainers</strong></a> &nbsp; <a href="https://github.com/testcontainers/testcontainers-go"><sub>☆&nbsp;5,022</sub></a>
 </td>
-<td width="33%" valign="top">
-<a href="https://github.com/dapr"><img src="https://github.com/dapr.png?size=40" width="18" height="18" alt=""> <strong>Dapr</strong></a> &nbsp; <a href="https://github.com/dapr/java-sdk"><sub>☆ 301</sub></a>
+<td width="270" valign="top">
+<a href="https://github.com/open-telemetry"><img src="https://github.com/open-telemetry.png?size=40" width="18" height="18" alt=""> <strong>OpenTelemetry</strong></a> &nbsp; <a href="https://github.com/open-telemetry/opentelemetry.io"><sub>☆&nbsp;994</sub></a>
 </td>
-<td width="33%" valign="top">
-<a href="https://github.com/GlacioHack"><img src="https://github.com/GlacioHack.png?size=40" width="18" height="18" alt=""> <strong>GlacioHack</strong></a> &nbsp; <a href="https://github.com/GlacioHack/xdem"><sub>☆ 220</sub></a>
+<td width="270" valign="top">
+<a href="https://github.com/falcosecurity"><img src="https://github.com/falcosecurity.png?size=40" width="18" height="18" alt=""> <strong>Falco</strong></a> &nbsp; <a href="https://github.com/falcosecurity/falcosidekick"><sub>☆&nbsp;699</sub></a>
 </td>
 </tr>
 <tr>
-<td width="33%" valign="top">
-<a href="https://github.com/openrewrite"><img src="https://github.com/openrewrite.png?size=40" width="18" height="18" alt=""> <strong>OpenRewrite</strong></a> &nbsp; <a href="https://github.com/openrewrite/rewrite-testing-frameworks"><sub>☆ 100</sub></a>
+<td width="270" valign="top">
+<a href="https://github.com/simpeg"><img src="https://github.com/simpeg.png?size=40" width="18" height="18" alt=""> <strong>SimPEG</strong></a> &nbsp; <a href="https://github.com/simpeg/simpeg"><sub>☆&nbsp;694</sub></a>
 </td>
-<td width="33%" valign="top">
-<a href="https://github.com/cryostatio"><img src="https://github.com/cryostatio.png?size=40" width="18" height="18" alt=""> <strong>Cryostat</strong></a> &nbsp; <a href="https://github.com/cryostatio/cryostat"><sub>☆ 58</sub></a>
+<td width="270" valign="top">
+<a href="https://github.com/seisbench"><img src="https://github.com/seisbench.png?size=40" width="18" height="18" alt=""> <strong>SeisBench</strong></a> &nbsp; <a href="https://github.com/seisbench/seisbench"><sub>☆&nbsp;429</sub></a>
+</td>
+<td width="270" valign="top">
+<a href="https://github.com/fatiando"><img src="https://github.com/fatiando.png?size=40" width="18" height="18" alt=""> <strong>Fatiando a Terra</strong></a> &nbsp; <a href="https://github.com/fatiando/harmonica"><sub>☆&nbsp;313</sub></a>
+</td>
+</tr>
+<tr>
+<td width="270" valign="top">
+<a href="https://github.com/Loop3D"><img src="https://github.com/Loop3D.png?size=40" width="18" height="18" alt=""> <strong>Loop3D</strong></a> &nbsp; <a href="https://github.com/Loop3D/LoopStructural"><sub>☆&nbsp;302</sub></a>
+</td>
+<td width="270" valign="top">
+<a href="https://github.com/dapr"><img src="https://github.com/dapr.png?size=40" width="18" height="18" alt=""> <strong>Dapr</strong></a> &nbsp; <a href="https://github.com/dapr/java-sdk"><sub>☆&nbsp;301</sub></a>
+</td>
+<td width="270" valign="top">
+<a href="https://github.com/GlacioHack"><img src="https://github.com/GlacioHack.png?size=40" width="18" height="18" alt=""> <strong>GlacioHack</strong></a> &nbsp; <a href="https://github.com/GlacioHack/xdem"><sub>☆&nbsp;220</sub></a>
+</td>
+</tr>
+<tr>
+<td width="270" valign="top">
+<a href="https://github.com/openrewrite"><img src="https://github.com/openrewrite.png?size=40" width="18" height="18" alt=""> <strong>OpenRewrite</strong></a> &nbsp; <a href="https://github.com/openrewrite/rewrite-testing-frameworks"><sub>☆&nbsp;100</sub></a>
+</td>
+<td width="270" valign="top">
+<a href="https://github.com/cryostatio"><img src="https://github.com/cryostatio.png?size=40" width="18" height="18" alt=""> <strong>Cryostat</strong></a> &nbsp; <a href="https://github.com/cryostatio/cryostat"><sub>☆&nbsp;58</sub></a>
 </td>
 </tr>
 </table>
