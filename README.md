@@ -170,7 +170,7 @@ Software delivery, automation &amp; integrations
 <sub>Enterprise</sub><br>
 **Scotiabank · BCP**
 
-I worked as API Tech Lead and Engineering Manager at Scotiabank’s Digital Factory, and as Tech Lead at BCP.
+I worked as API Tech Lead and Engineering Manager at **Scotiabank**’s Digital Factory, and as Tech Lead at **BCP**.
 
 </td>
 <td width="50%" valign="top">
@@ -178,14 +178,14 @@ I worked as API Tech Lead and Engineering Manager at Scotiabank’s Digital Fact
 <sub>Product &amp; startups</sub><br>
 **Deep Pit Technology**
 
-I co-founded Deep Pit and served as CTO. The company was acquired by STRACON in 2022.
+I co-founded **Deep Pit** and served as CTO. The company was acquired by **STRACON** in 2022.
 
-I’ve also worked at Crehana and Fandango.
+I’ve also worked at **Crehana** and **Fandango**.
 
 </td>
 </tr>
 </table>
 
-Today, I’m also Fractional Tech Lead at Rumbo. [LinkedIn ↗](https://www.linkedin.com/in/jean-pierre-mandujano/)
+Today, I’m also Fractional Tech Lead at **Rumbo**. [LinkedIn ↗](https://www.linkedin.com/in/jean-pierre-mandujano/)
 
 <sub>Geological engineer · Universidad Nacional de Ingeniería</sub>
